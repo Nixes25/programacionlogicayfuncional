@@ -61,3 +61,18 @@ Ejemplo: if x > 0: print("positivo").
 Programar “evaluando” con expresiones fomenta un estilo más funcional y declarativo, donde el código describe qué resultado se busca. En cambio, programar con sentencias es más imperativo, indicando paso a paso qué hacer.
 Por eso lenguajes como Haskell o Scala se apoyan más en expresiones, mientras que lenguajes como C++ o Java se basan en sentencias para estructurar la ejecución.
 
+## Fuentes bibliograficas
+1. **R. Pérez López**, *Expresiones*. IES Doñana, 2026.  
+   Disponible en:   [pro.iesdonana.org](https://pro.iesdonana.org/apuntes/expresiones-apuntes.pdf)
+
+2. **L. Hurtado**, “Expresiones vs Sentencias,” *M1-Apuntes*, GitHub repository.  
+   Disponible en:   [Github](https://github.com/LeandroHurtado/M1-Apuntes/blob/master/09-expresiones-sentencias.md)
+
+3. **F. Berzal**, *Expresiones y Sentencias*. Academia.edu, 2025.  
+   Disponible en:   [Academia.edu](https://www.academia.edu/37281891/Expresiones_y_sentencias)
+
+4. **DevGex**, “Expresiones vs Sentencias en Python: Un análisis detallado,” *DevGex*, Nov. 2025.  
+   Disponible en:   [devgex.com](https://devgex.com/es/article/00019008)
+
+5. **Introducción a la Programación – Expresiones y Sentencias**, documento técnico, 2025.  
+   Disponible en:   [nebrija.es](https://nebrija.es/~oruano/java/2E-Expresiones.pdf)
