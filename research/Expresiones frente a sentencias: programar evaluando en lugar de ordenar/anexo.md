@@ -2,7 +2,9 @@
 Inteligencia artificial utilizada: **Microsoft Copilot**
 
 ## Prompt utilizado: 
-Expresiones frente a sentencias: programar evaluando en lugar de ordenar
+-Expresiones frente a sentencias: programar evaluando en lugar de ordenar
+
+-Dame las fuentes bibliograficas utilizadas en esta investigación en Formato IEEE
 
 **Resultados obtenidos:** 
 
@@ -43,6 +45,31 @@ Ejemplo: if x > 0: print("positivo").
 ⚖️ Reflexión
 Programar “evaluando” con expresiones fomenta un estilo más funcional y declarativo, donde el código describe qué resultado se busca. En cambio, programar con sentencias es más imperativo, indicando paso a paso qué hacer.
 Por eso lenguajes como Haskell o Scala se apoyan más en expresiones, mientras que lenguajes como C++ o Java se basan en sentencias para estructurar la ejecución.
+
+Aquí tienes las **fuentes bibliográficas en formato IEEE**, basadas **exclusivamente** en los materiales identificados mediante la búsqueda realizada. Cada referencia corresponde a un documento utilizado para fundamentar la explicación sobre **expresiones y sentencias en programación**.
+
+---
+
+## 📚 **Fuentes en formato IEEE**
+
+1. **R. Pérez López**, *Expresiones*. IES Doñana, 2026.  
+   Disponible en:   [pro.iesdonana.org](https://pro.iesdonana.org/apuntes/expresiones-apuntes.pdf)
+
+2. **L. Hurtado**, “Expresiones vs Sentencias,” *M1-Apuntes*, GitHub repository.  
+   Disponible en:   [Github](https://github.com/LeandroHurtado/M1-Apuntes/blob/master/09-expresiones-sentencias.md)
+
+3. **F. Berzal**, *Expresiones y Sentencias*. Academia.edu, 2025.  
+   Disponible en:   [Academia.edu](https://www.academia.edu/37281891/Expresiones_y_sentencias)
+
+4. **DevGex**, “Expresiones vs Sentencias en Python: Un análisis detallado,” *DevGex*, Nov. 2025.  
+   Disponible en:   [devgex.com](https://devgex.com/es/article/00019008)
+
+5. **Introducción a la Programación – Expresiones y Sentencias**, documento técnico, 2025.  
+   Disponible en:   [nebrija.es](https://nebrija.es/~oruano/java/2E-Expresiones.pdf)
+
+---
+
+Si deseas, AXEL, puedo convertir estas referencias en un **formato APA**, **MLA** o integrarlas en una **bibliografía para tu documento técnico**.
 
 ## Reflexión personal del uso de la IA
 
